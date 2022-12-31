@@ -1,1 +1,0 @@
-# SmartCalcV1.0
